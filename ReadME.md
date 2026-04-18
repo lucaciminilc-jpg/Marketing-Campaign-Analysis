@@ -574,9 +574,9 @@ Google and Meta show **no seasonal lift** (actually decline in November).
 ## 📫 Contact
 
 **Luca Cimini**  
-Marketing Analyst | Data-Driven Growth Strategy
+Product Operations Specialist
 
-📧 [email]  
+📧 luca.cimini.lc@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/lucacimini)  
 📍 Rome, Italy
 
