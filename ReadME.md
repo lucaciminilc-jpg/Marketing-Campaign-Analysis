@@ -91,7 +91,7 @@ Analysis of 1,800 marketing campaigns (€11.1M spend, €54.2M revenue) across 
 
 ### ROAS by Platform
 
-![ROAS by Platform](images/platform_roas_chart.png)
+![ROAS by Platform](Images/_Roas by Platform.png)
 
 **Key Finding**: TikTok Ads ROAS 7.62 vs Google Ads 3.47
 
