@@ -91,7 +91,7 @@ Analysis of 1,800 marketing campaigns (€11.1M spend, €54.2M revenue) across 
 
 ### ROAS by Platform
 
-![ROAS by Platform](Images/_Roas by Platform.png)
+![ROAS by Platform](Images/platform_roas_chart.png)
 
 **Key Finding**: TikTok Ads ROAS 7.62 vs Google Ads 3.47
 
@@ -103,7 +103,7 @@ Analysis of 1,800 marketing campaigns (€11.1M spend, €54.2M revenue) across 
 
 ### Budget Allocation Misalignment
 
-![Budget vs ROAS](images/budget_misalignment_chart.png)
+![Budget vs ROAS](Images/budget_misalignment_chart.png)
 
 **Critical Problem**: Budget inversely correlated with performance
 - Google Ads: 57% budget, ROAS 3.47 (worst)
@@ -132,7 +132,7 @@ Analysis of 1,800 marketing campaigns (€11.1M spend, €54.2M revenue) across 
 
 ### ROAS by Industry
 
-![Industry ROAS](images/industry_roas_chart.png)
+![Industry ROAS](Images/industry_roas_chart.png)
 
 ### Key Finding: Well-Balanced Performance Across Industries
 
@@ -197,7 +197,7 @@ All campaign types deliver strong ROAS (4.58-5.31 range):
 
 ### ROAS by Country
 
-![Geographic ROAS](images/geographic_roas_chart.png)
+![Geographic ROAS](Images/geographic_roas_chart.png)
 
 ### Key Finding: India Underinvested, USA Overinvested
 
@@ -213,7 +213,7 @@ All campaign types deliver strong ROAS (4.58-5.31 range):
 
 ### Budget Allocation Misalignment
 
-![Budget vs ROAS Geographic](images/geographic_budget_chart.png)
+![Budget vs ROAS Geographic](Images/geographic_budget_chart.png)
 
 **Budget Misalignment**:
 - **India**: ROAS 5.50 (best), receives only 12.95% budget (LOWEST!)
@@ -242,7 +242,7 @@ India delivers **32% better ROAS** than USA yet receives **2.6% less budget**.
 
 ### ROAS Heatmap
 
-![Platform × Campaign Matrix](images/platform_campaign_matrix.png)
+![Platform × Campaign Matrix](Images/platform_campaign_matrix.png)
 
 ### Key Finding: TikTok Dominates Across ALL Campaign Types
 
@@ -287,7 +287,7 @@ India delivers **32% better ROAS** than USA yet receives **2.6% less budget**.
 
 ### 12-Month ROAS Trend
 
-![Monthly ROAS Trend](images/monthly_roas_trend.png)
+![Monthly ROAS Trend](Images/monthly_roas_trend.png)
 
 ### Key Finding: TikTok Shows Growth Trend; Q4 Seasonality Identified
 
@@ -344,6 +344,7 @@ Google and Meta show **no seasonal lift** (actually decline in November).
 
 ### ROAS Heatmap (Platform × Country)
 
+![Platform × Country Matrix](Images/platform_country_matrix.png)
 
 ### Key Finding: USA is Worst Market Across ALL Platforms; Australia Outperforms
 
@@ -586,5 +587,3 @@ Marketing Analyst | Data-Driven Growth Strategy
 *Dataset: 1,800 campaigns | €11.1M spend | €54.2M revenue | Full year 2024*
 
 ---
-
-## 📁 Repository Structure
