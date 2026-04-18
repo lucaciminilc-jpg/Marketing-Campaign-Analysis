@@ -346,10 +346,6 @@ Google and Meta show **no seasonal lift** (actually decline in November).
 
 ## Analysis 7: Platform × Country Performance Matrix
 
-### ROAS Heatmap (Platform × Country)
-
-*Note: Chart for Analysis 7 pending - data available in Excel file*
-
 ### Key Finding: USA is Worst Market Across ALL Platforms; Australia Outperforms
 
 **ROAS Matrix**:
